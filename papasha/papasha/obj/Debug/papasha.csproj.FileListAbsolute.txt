@@ -1,0 +1,12 @@
+C:\Users\student\Documents\Gnilitskiy\papasha\papasha\bin\Debug\papasha.exe.config
+C:\Users\student\Documents\Gnilitskiy\papasha\papasha\bin\Debug\papasha.exe
+C:\Users\student\Documents\Gnilitskiy\papasha\papasha\bin\Debug\papasha.pdb
+C:\Users\student\Documents\Gnilitskiy\papasha\papasha\obj\Debug\papasha.csproj.AssemblyReference.cache
+C:\Users\student\Documents\Gnilitskiy\papasha\papasha\obj\Debug\papasha.Form1.resources
+C:\Users\student\Documents\Gnilitskiy\papasha\papasha\obj\Debug\papasha.Form2.resources
+C:\Users\student\Documents\Gnilitskiy\papasha\papasha\obj\Debug\papasha.Properties.Resources.resources
+C:\Users\student\Documents\Gnilitskiy\papasha\papasha\obj\Debug\papasha.csproj.GenerateResource.cache
+C:\Users\student\Documents\Gnilitskiy\papasha\papasha\obj\Debug\papasha.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Gnilitskiy\papasha\papasha\obj\Debug\papasha.exe
+C:\Users\student\Documents\Gnilitskiy\papasha\papasha\obj\Debug\papasha.pdb
+C:\Users\student\Documents\Gnilitskiy\papasha\papasha\obj\Debug\papasha.Form3.resources
